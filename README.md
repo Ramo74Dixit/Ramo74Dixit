@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramo74dixit" alt="ramo74dixit" /></a> </p>
 
-- 🔭 I’m currently working on [studyNcode](https://github.com/ramo74dixit/food-ordering-app)
+- 🔭 I’m currently working on [Food-Ordering-App](https://github.com/ramo74dixit/food-ordering-app)
 
 - 🌱 I’m currently learning *DSA, Development(Android and React), Linux and Computer Networking*
 
-- 🤝 I’m looking for help with [My 3DPortfolio](https://github.com/ramo74dixit/food-ordering-app)
+- 🤝 I’m looking for help with [My Portfolio](https://github.com/ramo74dixit/food-ordering-app)
 
 - 👨‍💻 All of my projects are available at [https://ramodixit.netlify.app](https://ramodixit.netlify.app)
 
