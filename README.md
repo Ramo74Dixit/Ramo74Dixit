@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramo74dixit" alt="ramo74dixit" /></a> </p>
 
-- 🔭 I’m currently working on [Food-Ordering-App](https://github.com/ramo74dixit/food-ordering-app)
+- 🔭 I’m currently working in Fintl-AI Company as a Frontend - Developer-Intern
 
 - 🌱 I’m currently learning *DSA, Development(Android and React), Linux and Computer Networking*
 
