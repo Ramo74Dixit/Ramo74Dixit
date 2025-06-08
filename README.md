@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning *DSA, Development(Android and React), Linux and Computer Networking*
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/ramo74dixit/food-ordering-app)
-
-- 👨‍💻 All of my projects are available at [https://ramodixit.netlify.app](https://ramodixit.netlify.app)
+ 
 
 - 💬 Ask me about *Fullstack Development, React and C++, Python {Fundamentals}*
 
