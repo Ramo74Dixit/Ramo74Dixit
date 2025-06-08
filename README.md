@@ -6,10 +6,7 @@
 - 🔭 I’m currently working in Fintl-AI Company as a Frontend - Developer-Intern
 
 - 🌱 I’m currently learning *DSA, Development(Android and React), Linux and Computer Networking*
-
-- 🤝 I’m looking for help with [My Portfolio](https://github.com/ramo74dixit/food-ordering-app)
  
-
 - 💬 Ask me about *Fullstack Development, React and C++, Python {Fundamentals}*
 
 - 📫 How to reach me *ramodixit76@gmail.com*
