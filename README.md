@@ -57,11 +57,10 @@ High-concurrency ERP system deployed on AWS with **35+ secure REST APIs**, RBAC,
     alt="Ram Mohan's GitHub stats"
     height="165"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=ramo74dixit&theme=tokyonight&hide_border=true"
-    alt="Ram Mohan's GitHub streak"
-    height="165"
-  />
+ <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramo74dixit&theme=tokyonight"
+  alt="Ram Mohan's GitHub stats"
+/>
 </p>
 <div align="center">
 
