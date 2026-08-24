@@ -49,13 +49,11 @@ A full-stack learning platform with real-time code execution, automated grading,
 ### 🏢 Kodu ERP
 High-concurrency ERP system deployed on AWS with **35+ secure REST APIs**, RBAC, Redis, MongoDB indexing, and **99.9% uptime**.
 
-## GitHub analytics
-
 ## GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ramo74dixit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramo74dixit&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Ram Mohan's GitHub stats"
     height="165"
   />
