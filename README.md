@@ -51,11 +51,20 @@ High-concurrency ERP system deployed on AWS with **35+ secure REST APIs**, RBAC,
 
 ## GitHub analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramo74dixit&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ramo74dixit&theme=transparent&hide_border=true" />
-</div>
+## GitHub Analytics
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ramo74dixit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Ram Mohan's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=ramo74dixit&theme=tokyonight&hide_border=true"
+    alt="Ram Mohan's GitHub streak"
+    height="165"
+  />
+</p>
 <div align="center">
 
 ### “Build products that solve real problems.”
