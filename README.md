@@ -52,11 +52,6 @@ High-concurrency ERP system deployed on AWS with **35+ secure REST APIs**, RBAC,
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramo74dixit&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Ram Mohan's GitHub stats"
-    height="165"
-  />
  <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramo74dixit&theme=tokyonight"
   alt="Ram Mohan's GitHub stats"
