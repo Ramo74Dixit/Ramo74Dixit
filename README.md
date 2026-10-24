@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/u/codex_156/"><img src="https://img.shields.io/badge/LeetCode-codex__156-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.geeksforgeeks.org/profile/ramodixit577"><img src="https://img.shields.io/badge/GeeksForGeeks-Solve-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Ramo74Dixit&style=flat-square&color=7c3aed&label=VISITORS" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Ramo74Dixit.Ramo74Dixit&left_text=VISITORS&left_color=302b63&right_color=7c3aed" alt="visitors"/>
 
 </div>
 
