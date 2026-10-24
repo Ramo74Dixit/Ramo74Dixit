@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/u/codex_156/"><img src="https://img.shields.io/badge/LeetCode-codex__156-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.geeksforgeeks.org/profile/ramodixit577"><img src="https://img.shields.io/badge/GeeksForGeeks-Solve-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=ramo74dixit&style=flat-square&color=7c3aed&label=🛸+VISITORS+BEAMED+IN"/>
+<img src="https://komarev.com/ghpvc/?username=Ramo74Dixit&style=flat-square&color=7c3aed&label=VISITORS" alt="visitors"/>
 
 </div>
 
@@ -46,13 +46,13 @@ alignment:   "Build products that solve real problems."
 ### 📈 Character Stats
 
 ```text
-🧑‍🏫 Teaching      ██████████  MAX
-🧠 Gen-AI / LLMs  █████████░  90
-⚙️ Backend        █████████░  90
-🎨 Frontend       ████████░░  80
-☁️ DevOps         ███████░░░  70
-📋 Leadership     ████████░░  80
-☕ Chai Intake    ██████████  ∞
+Teaching      [##########]  MAX
+Gen-AI/LLMs   [######### ]  90
+Backend       [######### ]  90
+Frontend      [########  ]  80
+DevOps        [#######   ]  70
+Leadership    [########  ]  80
+Chai Intake   [##########]  ∞
 ```
 
 </td>
